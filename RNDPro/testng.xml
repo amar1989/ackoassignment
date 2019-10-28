@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Suite" verbose="2"  parallel="tests" thread-count="10">
+    <test name="Some Workflow Tests" parallel="none" >
+        <classes>
+            <class name="com.amar.dreamer.RNDPro.MyTests1"/>
+            <class name="com.amar.dreamer.RNDPro.MyTests2"/>
+        </classes>
+    </test>
+</suite>

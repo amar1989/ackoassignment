@@ -1,0 +1,20 @@
+<root>
+   <data>
+      <avatar>https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg</avatar>
+      <email>emma.wong@reqres.in</email>
+      <first_name>Emma</first_name>
+      <id>3</id>
+      <last_name>Wong</last_name>
+      <sheet>
+         <book>
+            <id>hello1</id>
+            <name>
+               <element>bookname</element>
+               <element>bookname1</element>
+            </name>
+         </book>
+         <first_name>hello</first_name>
+         <last_name>world</last_name>
+      </sheet>
+   </data>
+</root>
